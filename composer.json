@@ -9,7 +9,6 @@
         }
     ],
     "require": {},
-        "minimum-stability": "stable",
     "autoload":{
         "files":[
             "src/lib/helper.php"
