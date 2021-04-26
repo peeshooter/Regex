@@ -1,0 +1,22 @@
+{
+    "name": "regex/chenlean",
+    "type": "l",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "豌豆射手",
+            "email": "dev-chenlin@foxmail.com"
+        }
+    ],
+    "require": {},
+        "minimum-stability": "stable",
+    "autoload":{
+        "files":[
+            "src/lib/helper.php"
+        ],
+        "psr-4":{
+            "wjcms\\composer\\":"src"
+        }
+    }
+ 
+}
